@@ -1,17 +1,20 @@
-this is a work in progress 🌱 
-meow 🐱
+Hey there 👋
 
-<!--
-**udqy/udqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Uday. I'm an Engineering student from Mumbai.
 
-Here are some ideas to get you started:
+I am currently tinkering with Game Dev using Unity (C#) and AI/ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my free time I build tools/projects that interest me and take me down rabbit holes.  
+
+I'm a Linux nerd (checkout my dotfiles!).
+
+I love talking to people. Reach out to me for projects, help, or to just geek out about stuff.
+
+[𝕏] [twitter](https://x.com/udayjdv)
+[⚘.] [linkedin](https://www.linkedin.com/in/udaysj/)
+
+[✉︎] [email](mailto:udaygitlog@gmail.com)
+[꩜] [art](https://www.instagram.com/uday.bak/)
+
+[ᯓ] [strava](https://www.strava.com/athletes/95821197)
+[ᯤ] [spotify](https://open.spotify.com/user/ualjdpuomrmusz9jln91kfb9i?si=dc57e20598164cec)
