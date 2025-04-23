@@ -1,12 +1,10 @@
-Hey there 👋
+Hey there ✧˖°.
 
 I'm Uday. I'm an Engineering student from Mumbai.
 
-I am currently tinkering with Game Dev using Unity (C#) and AI/ML.
+I am currently tinkering with Game Dev using Unity (C⌗) and AI/ML.
 
-In my free time I build tools/projects that interest me and take me down rabbit holes.  
-
-I'm a Linux nerd (checkout my dotfiles!).
+In my free time I build tools/projects that interest me and take me down rabbit holes. Also a Linux nerd (checkout my dotfiles.ᐟ).
 
 I love talking to people. Reach out to me for projects, help, or to just geek out about stuff.
 
