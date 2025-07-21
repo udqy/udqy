@@ -1,5 +1,7 @@
 Into AI, Linux and Gamedev sometimes.
 
+I've pushed **372** commits, submitted **25** pull requests, and contributed to **9** public repositories so far.
+
 Ping me for a quick chat!
 
 [[twitter](https://x.com/udayjdv)]
