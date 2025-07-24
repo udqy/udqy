@@ -1,6 +1,6 @@
 Into AI, Linux and Gamedev sometimes.
 
-I've pushed **{{ COMMITS }}** commits, submitted **{{ PULL_REQUESTS }}** pull requests, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories so far.
+I've pushed **{{ COMMITS }}** commits, merged **{{ PULL_REQUESTS }}** pull requests, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories so far.
 
 Ping me for a quick chat!
 
