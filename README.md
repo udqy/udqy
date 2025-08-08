@@ -1,6 +1,6 @@
 Into AI, Linux and Gamedev sometimes.
 
-I've pushed **376** commits, merged **25** pull requests, and contributed to **8** public repositories so far.
+I've pushed **376** commits, merged **26** pull requests, and contributed to **9** public repositories so far.
 
 Ping me for a quick chat!
 
